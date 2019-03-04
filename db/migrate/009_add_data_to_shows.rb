@@ -6,8 +6,3 @@ class AddDataToShows < ActiveRecord::Migration[5.1]
   end
 
 end
-
-# it "has data attributes" do
-#     #TODO: You'll need to create a new migration to add
-#     #the necessary columns to the shows table
-#     community = Show.create(:name => "Community", :day => "Thursday", :season => "Winter")
